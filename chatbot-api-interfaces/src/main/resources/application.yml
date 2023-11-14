@@ -1,2 +1,7 @@
 server:
   port: 8090
+
+chatbot-api:
+  groupId: 15281288451882
+  cookie: abtest_env=product; zsxq_access_token=5A3C60D1-F2F5-6DA7-4B4D-ABAEFD33609D_8FA8D35B92D744F1; zsxqsessionid=b83fdf1aa40edf5c7ce4caa554e17e16; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2251142422215444%22%2C%22first_id%22%3A%2218195a0a7a446f-0a693596827e478-26021b51-3686400-18195a0a7a5892%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC%22%2C%22%24latest_referrer%22%3A%22https%3A%2F%2Fopen.weixin.qq.com%2F%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTgxOTVhMGE3YTQ0NmYtMGE2OTM1OTY4MjdlNDc4LTI2MDIxYjUxLTM2ODY0MDAtMTgxOTVhMGE3YTU4OTIiLCIkaWRlbnRpdHlfbG9naW5faWQiOiI1MTE0MjQyMjIxNTQ0NCJ9%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%24identity_login_id%22%2C%22value%22%3A%2251142422215444%22%7D%2C%22%24device_id%22%3A%2218195a0a7a446f-0a693596827e478-26021b51-3686400-18195a0a7a5892%22%7D
+  openAiKey: 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
